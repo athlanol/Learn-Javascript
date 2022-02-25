@@ -6,6 +6,7 @@ Telah belajar mengenai beberapa hal yaitu :
 - Mempelajari konsep Callback, Callback hell (masih harus banyak latihan).
 - Mempelajari konsep Promise, Promise chaining (masih harus latihan lagi).
 - Melakukan HTTP request menggunakan Fetch.
+- Mempelajari Async Await
 
 Saat ngoding sendiri sempat beberapa kali lupa atau macet 
 tetapi sejauh ini saya paham konsep-konsepnya namun masih ada kekurangan-kekurangan yang harus diperbaiki lagi.
