@@ -1,5 +1,3 @@
-# Learn-Javascript
-
 # Learn Asynchronous Javascript
 
 Telah belajar mengenai beberapa hal yaitu :
