@@ -1,0 +1,5 @@
+[
+  { "model": "Sentra", "doors": 4 },
+  { "model": "Toyota", "doors": 3 },
+  { "model": "Suzuki", "doors": 2 }
+]
