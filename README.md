@@ -1,3 +1,4 @@
+
 # Learn Asynchronous Javascript
 
 Telah belajar mengenai beberapa hal yaitu :
@@ -10,3 +11,7 @@ Telah belajar mengenai beberapa hal yaitu :
 
 Saat ngoding sendiri sempat beberapa kali lupa atau macet 
 tetapi sejauh ini saya paham konsep-konsepnya namun masih ada kekurangan-kekurangan yang harus diperbaiki lagi.
+=======
+# Learn-Javascript
+A Repository made to document my learning progress on javascript
+
